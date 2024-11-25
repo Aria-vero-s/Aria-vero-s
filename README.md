@@ -40,8 +40,8 @@
 ---
 
 ### 📫 **Get in Touch**  
-- **[ariane.saulnier@gmail.com](ariane.saulnier@gmail.com)**
-- **[linkedin.com/in/arianesaulnier](https://linkedin.com/in/arianesaulnier)**
+- **[ariane.saulnier@gmail.com](mailto:ariane.saulnier@gmail.com)**
+- **[linkedin.com/in/ariane-saulnier](www.linkedin.com/in/ariane-saulnier)**
 - **[github.com/aria-vero-s](https://github.com/aria-vero-s)**
 
 ---
