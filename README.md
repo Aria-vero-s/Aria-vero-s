@@ -20,7 +20,7 @@
 🌟 **[Pianist Portfolio website](https://paolorubinacci.com)**  
 *Description*: A biography website for a pianist, showcasing **HTML, CSS, and JavaScript** with responsive design.  
 
-🌟 **[Get_Next_Line]([https://github.com/Aria-vero-s/get_next_line])**  
+🌟 **[Get_Next_Line](https://github.com/Aria-vero-s/get_next_line)**  
 *Description*: A school project from Ecole 42, focusing on C and understanding file desciptors.  
 
 🌟 **[Coding with Ariane]([https://www.youtube.com/@codingwithariane])** *(YouTube Channel)*  
