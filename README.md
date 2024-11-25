@@ -1,7 +1,7 @@
 # **Hi there! I'm Ariane 👋**  
 
 🎓 **Web Developer | Creative Thinker**  
-🌍 Currently studying at **Ecole 42** | Alumni of **Code Institute**  
+🌍 Currently studying at **Ecole 42** in Paris, FR | Alumni of **Code Institute** in London, UK  
 
 ---
 
