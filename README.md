@@ -40,9 +40,9 @@
 ---
 
 ### 📫 **Get in Touch**  
-- **Email:** ariane.saulnier@example.com
-- **LinkedIn:** [linkedin.com/in/arianesaulnier](#)  
-- **GitHub:** [github.com/aria-vero-s](#)  
+- **[ariane.saulnier@gmail.com](ariane.saulnier@gmail.com)**
+- **[linkedin.com/in/arianesaulnier](https://linkedin.com/in/arianesaulnier)**
+- **[github.com/aria-vero-s](https://github.com/aria-vero-s)**
 
 ---
 
@@ -51,8 +51,3 @@
 - 🍳 Passionate about cooking, with a love for French and Mediterranean cuisine.  
 - 📖 Avid learner of history, mythology, and languages (fluent in French and English, with a bit of Italian).
 
----
-
-### 📊 **GitHub Stats**  
-![Ariane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArianeSaulnier&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianeSaulnier&layout=compact&theme=radical)  
