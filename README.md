@@ -5,8 +5,8 @@
 
 ---
 
-### 🛠 **About Me**  
-- 🌐 A passionate **front-end developer** and **full-stack developer** with a love for **graphic design** 
+### **About Me**  
+- 🩵 A passionate **front-end developer** and **full-stack developer** with a love for **graphic design** 
 - 📍 Based in Paris 🇫🇷 | From Canada 🇨🇦  
 
 💻 My strong suits are:  
