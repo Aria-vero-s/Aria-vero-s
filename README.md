@@ -11,7 +11,7 @@
 
 💻 My strong suits are:  
 - **Programming Languages:** C, JavaScript, Python  
-- **Frontend Technologies:** HTML, CSS, JavaScript, Bootstrap  
+- **Frontend Technologies:** HTML, CSS, Django, Bootstrap  
 - **Tools & Platforms:** GitHub, VS Code, Linux  
 
 ---
