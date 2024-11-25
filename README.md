@@ -21,9 +21,10 @@
 *Description*: A biography website for a pianist, showcasing **HTML, CSS, and JavaScript** with responsive design.  
 
 🌟 **[Get_Next_Line](https://github.com/Aria-vero-s/get_next_line)**  
+<a href="https://github.com/Aria-vero-s/get_next_line" target="_blank">Get_Next_Line</a>
 *Description*: A school project from Ecole 42, focusing on C and understanding file desciptors.  
 
-🌟 **[Coding with Ariane]([https://www.youtube.com/@codingwithariane])** *(YouTube Channel)*  
+🌟 **[Coding with Ariane](https://www.youtube.com/@codingwithariane)** *(YouTube Channel)*  
 *Description*: Tutorials and personal coding projects aimed at sharing my learning journey and tips for developers.  
 
 ---
