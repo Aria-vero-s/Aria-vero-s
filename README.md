@@ -32,6 +32,7 @@
 - **Frontend Development**: Building intuitive and responsive user interfaces.
 - **Backend Development**: Currently learning C programming at Ecole 42, developing efficient code for system-level projects.  
 - **UX/UI Design**: Designing user-friendly web applications and websites.  
+  - **Behance:** [behance.net/arianesaulnier](https://www.behance.net/arianesaulnier) 
 
 🎯 **Currently working on:**  
 - Completing **Ecole 42's curriculum** with projects like `Get_next_line` and `So_long`.  
