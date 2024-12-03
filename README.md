@@ -48,7 +48,7 @@
 ---
 
 ### 🌟 **Fun Facts**  
-- 🎷 I play multiple instruments: clarinet, piano, guitar, and more.  
+- 🎹 I play multiple instruments: clarinet, piano, guitar, and more.  
 - 🍳 Passionate about cooking, with a love for French and Mediterranean cuisine.  
 - 📖 Avid learner of history, mythology, and languages (fluent in French and English, with a bit of Italian).
 
