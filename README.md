@@ -17,8 +17,9 @@
 ---
 
 ### 🚀 **Featured Projects**  
-🌟 **[Pianist Portfolio website](https://paolorubinacci.com)**  
-*Description*: A biography website for a pianist, showcasing **HTML, CSS, and JavaScript** with responsive design.  
+🌟 **[Freelance Portfolio website](https://github.com/Aria-vero-s/love-innovations-portfolio)**  
+*Description*: A static website for freelance services, showcasing **HTML, CSS, and JavaScript** with responsive design.
+*Live link*: [love-innovations.com](https://love-innovations.com)
 
 🌟 **[Get_Next_Line](https://github.com/Aria-vero-s/get_next_line)**  
 *Description*: A school project from Ecole 42, focusing on C and understanding file desciptors.  
