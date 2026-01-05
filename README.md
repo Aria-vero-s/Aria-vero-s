@@ -17,7 +17,7 @@
 ---
 
 ### 🚀 **Featured Projects**  
-🌟 **[Freelance Portfolio website](https://github.com/Aria-vero-s/ariane-portfolio) Live link : [arianesaulnier.com](https://github.com/Aria-vero-s/ariane-portfolio)**  
+🌟 **[Freelance Portfolio website](https://github.com/Aria-vero-s/ariane-portfolio) Live link : [arianesaulnier.com](https://www.arianesaulnier.com)**  
 *Description*: A static website for a portfolio with animations, showcasing **HTML, CSS, and JavaScript** with responsive design.
 
 🌟 **[So_long](https://github.com/Aria-vero-s/so_long)**  
