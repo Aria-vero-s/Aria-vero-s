@@ -35,8 +35,8 @@
   - **Behance:** [behance.net/arianesaulnier](https://www.behance.net/arianesaulnier) 
 
 🎯 **Currently working on:**  
-- Completing **Ecole 42's curriculum** with C/C++ projects.  
-- Expanding my knowledge in **React.js** and **backend development**.  
+- Completing **Ecole 42's curriculum** with C/C++ projects.
+- Expanding my knowledge in **React.js** with personal projects such as : [react_app_organizo](https://github.com/Aria-vero-s/organizo)
 
 ---
 
