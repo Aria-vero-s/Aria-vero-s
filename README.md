@@ -18,7 +18,7 @@ Languages:
 
 ### **Skills & Expertise**
 - **Frontend Development**: Building intuitive and responsive user interfaces.
-- **Backend Development**: Currently learning C and C++ programming at Ecole 42, developing efficient code for system-level projects.
+- **Backend Development**: Currently learning C and C++ programming at Ecole 42.
 - **UX/UI Design**: Designing user-friendly web applications and websites.
 
 **Currently working on:**
