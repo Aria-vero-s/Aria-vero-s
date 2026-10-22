@@ -16,7 +16,7 @@ Currently studying at **Ecole 42** in Paris, FR | Alumni of **Code Institute** i
 
 **Currently :**
 - Completing studies at **Ecole 42** in Paris to earn the RNCP7 "Expert en architecture informatique".
-- Expanding my knowledge in **React.js** with personal projects.
+- Doing a Full-stack internship at **[meta-sense.fr](https://www.meta-sense.fr/)**and expanding my knowledge with personal projects.
 
 ---
 
