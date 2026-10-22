@@ -14,17 +14,8 @@ My strong suits are:
 - **Frontend Technologies:** HTML, CSS, Django, Bootstrap
 - **Tools & Platforms:** GitHub, VS Code, Linux
 
----
-
-### **Featured Projects**
 **[Freelance Portfolio website](https://github.com/Aria-vero-s/ariane-portfolio) Live link : [arianesaulnier.com](https://www.arianesaulnier.com)**
 *Description*: A static website for a portfolio with animations, showcasing **HTML, CSS, and JavaScript** with responsive design.
-
-**[So_long](https://github.com/Aria-vero-s/so_long)**
-*Description*: A school project from Ecole 42, using C and a library called miniLibX, to create a mini retro game.
-
-**[Coding with Ariane](https://www.youtube.com/@codingwithariane)** *(YouTube Channel)*
-*Description*: Tutorials and personal coding projects aimed at sharing my learning journey and tips for developers.
 
 ---
 
