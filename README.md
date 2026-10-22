@@ -9,10 +9,8 @@ Currently studying at **Ecole 42** in Paris, FR | Alumni of **Code Institute** i
 - A passionate **front-end developer** and **full-stack developer** with a love for **graphic design**
 - Based in Paris, France | From NB, Canada
 
-My strong suits are:
-- **Programming Languages:** C, C++, JavaScript, Python
-- **Frontend Technologies:** HTML, CSS, Django, Bootstrap
-- **Tools & Platforms:** GitHub, VS Code, Linux
+Languages:
+- C, C++, JavaScript, Python, Django, Vue, Nuxt, Typescript, React, HTML/CSS
 
 **Click here to see my portfolio : [arianesaulnier.com](https://www.arianesaulnier.com)**
 
