@@ -9,19 +9,12 @@ Currently studying at **Ecole 42** in Paris, FR | Alumni of **Code Institute** i
 - A passionate **front-end developer** and **full-stack developer** with a love for **graphic design**
 - Based in Paris, France | From NB, Canada
 
-Languages:
 - C, C++, JavaScript, Python, Django, Vue, Nuxt, Typescript, React, HTML/CSS
+- UX/UI Design
 
 **Click here to see my portfolio : [arianesaulnier.com](https://www.arianesaulnier.com)**
 
----
-
-### **Skills & Expertise**
-- **Frontend Development**: Building intuitive and responsive user interfaces.
-- **Backend Development**: Currently learning C and C++ programming at Ecole 42.
-- **UX/UI Design**: Designing user-friendly web applications and websites.
-
-**Currently working on:**
+**Currently :**
 - Completing studies at **Ecole 42** in Paris to earn the RNCP7 "Expert en architecture informatique".
 - Expanding my knowledge in **React.js** with personal projects.
 
