@@ -12,8 +12,6 @@ Currently studying at **Ecole 42** in Paris, FR | Alumni of **Code Institute** i
 - C, C++, JavaScript, Python, Django, Vue, Nuxt, Typescript, React, HTML/CSS
 - UX/UI Design
 
-**Click here to see my portfolio : [arianesaulnier.com](https://www.arianesaulnier.com)**
-
 **Currently :**
 - Completing studies at **Ecole 42** in Paris to earn the RNCP7 "Expert en architecture informatique".
 - Doing a Full-stack internship at [meta-sense.fr](https://www.meta-sense.fr/) and expanding my knowledge with personal projects.
@@ -22,7 +20,7 @@ Currently studying at **Ecole 42** in Paris, FR | Alumni of **Code Institute** i
 
 ### **Get in Touch**
 - **[linkedin.com/in/ariane-saulnier](www.linkedin.com/in/ariane-saulnier)**
-- **[github.com/aria-vero-s](https://github.com/aria-vero-s)**
+- **Click here to see my portfolio : [arianesaulnier.com](https://www.arianesaulnier.com)**
 
 ---
 
